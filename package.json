@@ -1,0 +1,22 @@
+{
+  "name": "production",
+  "version": "1.0.0",
+  "description": "productivity app for the producers of the world",
+  "scripts": {
+    "test": "echo \"TESTS TODO\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artvandelay982/production.git"
+  },
+  "keywords": [
+    "productivity",
+    "app"
+  ],
+  "author": "Dylan Williams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/artvandelay982/production/issues"
+  },
+  "homepage": "https://github.com/artvandelay982/production#readme"
+}
